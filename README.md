@@ -10,7 +10,7 @@
 In this repository are the python scripts for the implementations of the novel Augmented Social Force Model (ASFM) on the Boston Dynamics Spot robot for mobile navigation along with the standard Social Force Model (SFM) that was used for comparison.
 
 ## Video Demonstration
-[Here]([https://youtu.be/36d5Frar4pE](https://youtu.be/FtnkpQeZpig?si=oCqJGGq3Zwy_VAeH)) is a link to a video demonstration of the two models implemented on the robot system.
+[Here](https://youtu.be/FtnkpQeZpig?si=oCqJGGq3Zwy_VAeH) is a link to a video demonstration of the two models implemented on the robot system.
 
 
 ## Mobile Robot
